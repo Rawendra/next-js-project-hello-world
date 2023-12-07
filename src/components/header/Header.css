@@ -1,0 +1,14 @@
+.header-container{
+  background-color: antiquewhite;
+  display: flex;
+}
+
+.header-container-item{
+  margin-right: 20px;
+  transition: .4s ease-in-out;
+}
+.header-container-item:hover{
+  background-color: black;
+  color: whitesmoke;
+  border-bottom: 2px solid whitesmoke;
+}
